@@ -1,20 +1,20 @@
-# imagersize.io
+# imageresizer.io
 
 A wrapper around functions of https://imageresizer.io/
 
-[![NPM](https://nodei.co/npm/imagersize.io.png?downloads=true&downloadRank=true)](https://www.npmjs.com/package/imagersize.io)
+[![NPM](https://nodei.co/npm/imageresizer.io.png?downloads=true&downloadRank=true)](https://www.npmjs.com/package/imageresizer.io)
 
 
 ## Install
 
 ```
-$ npm install --save imagersize.io
+$ npm install --save imageresizer.io
 ```
 
 ## Initializing
 
 ```js
-var imageresizerModule = require('imagersize.io')
+var imageresizerModule = require('imageresizer.io')
 
 imageresizerModule.init({
     key : 'YOU_API_KEY'
