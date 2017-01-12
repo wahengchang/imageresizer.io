@@ -77,7 +77,7 @@ function imageresizerModule() {
       return DOWNLOAD_BASEURL;
     }
 
-    return DOWNLOAD_BASEURL + id + '?' + _str;
+    return DOWNLOAD_BASEURL + id + '?' + _str +'&cors';
   }
 
   return {
